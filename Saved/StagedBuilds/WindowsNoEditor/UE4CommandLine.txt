@@ -1,1 +1,0 @@
-../../../FirstProject/FirstProject.uproject  /Temp/Autosaves/Game/Maps/UEDPCMyFirstMap -Messaging /Temp/Autosaves/Game/Maps/UEDPCMyFirstMap -InstanceId=7909D8C0474261AB316CEF82FA34A03E -SessionId=CFBBB72E408995787EFC46A2FADA5FD3 -SessionOwner=Billy -SessionName='Play On Device'    

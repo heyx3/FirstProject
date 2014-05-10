@@ -213,3 +213,14 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+
+##############
+## Unreal 4
+##############
+
+Intermediate/
+Saved/Autosaves/
+Saved/Cloud/
+Saved/AutoScreenshot.png
