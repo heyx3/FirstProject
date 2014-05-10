@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-Time of this report: 5/9/2014, 17:54:48
+Time of this report: 5/9/2014, 20:13:11
        Machine name: VAKARIAN
    Operating System: Windows 7 Home Premium 64-bit (6.1, Build 7601) Service Pack 1 (7601.win7sp1_gdr.130828-1532)
            Language: English (Regional Setting: English)
@@ -11,7 +11,7 @@ System Manufacturer: ASUSTeK Computer Inc.
           Processor: Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz (8 CPUs), ~2.0GHz
              Memory: 12288MB RAM
 Available OS Memory: 12266MB RAM
-          Page File: 10140MB used, 14388MB available
+          Page File: 6340MB used, 18187MB available
         Windows Dir: C:\Windows
     DirectX Version: DirectX 11
 DX Setup Parameters: Not found
@@ -281,13 +281,13 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 159.4 GB
+ Free Space: 159.5 GB
 Total Space: 300.1 GB
 File System: NTFS
       Model: ST9750420AS
 
       Drive: E:
- Free Space: 315.4 GB
+ Free Space: 314.7 GB
 Total Space: 376.9 GB
 File System: NTFS
       Model: ST9750420AS
