@@ -3,3 +3,5 @@ Overall, the game should have a quiet (almost totally silent) atmosphere.
 A monster chases the player. It starts with a specific target distance from the player. If the player stands still, ominous sounds suddenly start playing and the monster's distance decreases. If the player sprints, the ambient sound disappears entirely and the distance slowly increases. The player can only sprint for a limited time.
 
 The monster constantly sits at the pathing node closest to the target distance from the player. A steady slowly-blinking white light is attached to the monster. As he gets closer, the player's torch gets brighter (check that this plays well; the light should stay low to keep the monster looking scary) and the surfaces get more bubbly. Once the target distance is small enough, the monster will actively seek to the player and chase noise/music will play.
+
+The level should have plenty of long hallways, to increase the chance of the player seeing the monster's eyes from far away, to increase the tension.
