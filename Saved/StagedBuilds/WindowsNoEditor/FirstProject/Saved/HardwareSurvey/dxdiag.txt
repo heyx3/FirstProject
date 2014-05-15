@@ -1,9 +1,9 @@
 ------------------
 System Information
 ------------------
-Time of this report: 5/11/2014, 01:49:30
+Time of this report: 5/14/2014, 23:00:21
        Machine name: VAKARIAN
-   Operating System: Windows 7 Home Premium 64-bit (6.1, Build 7601) Service Pack 1 (7601.win7sp1_gdr.130828-1532)
+   Operating System: Windows 7 Home Premium 64-bit (6.1, Build 7601) Service Pack 1 (7601.win7sp1_gdr.140303-2144)
            Language: English (Regional Setting: English)
 System Manufacturer: ASUSTeK Computer Inc.
        System Model: G74Sx
@@ -11,7 +11,7 @@ System Manufacturer: ASUSTeK Computer Inc.
           Processor: Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz (8 CPUs), ~2.0GHz
              Memory: 12288MB RAM
 Available OS Memory: 12266MB RAM
-          Page File: 8565MB used, 15962MB available
+          Page File: 6415MB used, 18113MB available
         Windows Dir: C:\Windows
     DirectX Version: DirectX 11
 DX Setup Parameters: Not found
@@ -50,7 +50,12 @@ Display Devices
      Display Memory: 4095 MB
    Dedicated Memory: 3019 MB
       Shared Memory: 1076 MB
-       Current Mode: 1920 x 1080 (32 bit) (60Hz)
+       Current Mode: 1280 x 720 (32 bit) (60Hz)
+       Monitor Name: Generic PnP Monitor
+      Monitor Model: Rift DK
+         Monitor Id: OVR0001
+        Native Mode: 1280 x 800(p) (60.002Hz)
+        Output Type: HDMI
        Monitor Name: Generic PnP Monitor
       Monitor Model: unknown
          Monitor Id: CMO1726
@@ -200,12 +205,6 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
-      Device Name: HID-compliant consumer control device
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0xFEEB, 0xDEEF
-        FF Driver: n/a
-
       Device Name: G500
          Attached: 1
     Controller ID: 0x0
@@ -281,19 +280,19 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 159.3 GB
+ Free Space: 142.8 GB
 Total Space: 300.1 GB
 File System: NTFS
       Model: ST9750420AS
 
       Drive: E:
- Free Space: 314.4 GB
+ Free Space: 314.2 GB
 Total Space: 376.9 GB
 File System: NTFS
       Model: ST9750420AS
 
       Drive: G:
- Free Space: 102.9 GB
+ Free Space: 102.3 GB
 Total Space: 715.4 GB
 File System: NTFS
       Model: WDC WD7500BPKT-80PK4T0
